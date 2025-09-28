@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Xin Wei 👋
+
+- 🎓 Final year Math & Computer Science Undergraduate @ NTU
+- 🌱 I’m Currently Learning ML Integration into Full-Stack Applications
+- 🌐 Check out my Github Hosted Website https://roylimxinwei.github.io/
+- 📫 Contact Me @roylim0218@gmail.com
+
+
 
 <!--
 **roylimxinwei/roylimxinwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
