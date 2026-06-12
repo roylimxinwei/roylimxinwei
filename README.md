@@ -1,8 +1,8 @@
 # Hi, I'm Xin Wei 👋
 
-- 🎓 Final year Math & Computer Science Undergraduate @ NTU
+- 🎓 Math & CS @ NTU
 - 🌱 I’m Currently Learning ML Integration into Full-Stack Applications
-- 🌐 Check out my Github Hosted Website https://roylimxinwei.github.io/
+- 🌐 [My Portfolio Website](https://roylimxinwei-portfolio.vercel.app/)
 - 📫 Contact Me @roylim0218@gmail.com
 
 
